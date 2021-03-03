@@ -6,3 +6,4 @@ Markdown | [Read More](https://guides.github.com/features/mastering-markdown/)|
 Html | [Read More](https://www.w3schools.com/html/)|
 Git | [Read More](https://git-scm.com/docs/gittutorial)|
 GitHub | [Read More](https://github.com/)|
+MyNotes | [Read Them](https://canvas.instructure.com/courses/2588809/assignments/20549499/submissions/29479667)|
